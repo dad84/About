@@ -1,0 +1,12 @@
+body {
+  
+}
+
+table {
+  width: 60vw;
+  min-width: 800px;
+}
+
+input[type="number"]{
+  width: 75px;
+}
